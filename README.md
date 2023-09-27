@@ -18,6 +18,8 @@ Naive Bayes classification, Linear Regression,
 My Contributions were K means clustering, some Naive Bayes classification and the Naive
 Bayes Classification in the StreamLit Application.
 
+![PoliceML](https://github.com/Kempster33/Police-Data-Machine-Learning/assets/15764472/cf54d06e-eb48-4271-b71c-cc25916fafdd)
+
 
 ## Getting Started
 
